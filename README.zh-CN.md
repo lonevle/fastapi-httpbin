@@ -21,6 +21,9 @@
 ## 用法
 
 ```
+pip install fastapi
+pip install uvicorn
+
 python httpbin.py
 ```
 

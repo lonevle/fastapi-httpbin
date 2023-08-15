@@ -25,6 +25,9 @@ This is a simple httpbin service built with fastapi for API testing.
 ## Usage
 
 ```
+pip install fastapi
+pip install uvicorn
+
 python httpbin.py
 ```
 
